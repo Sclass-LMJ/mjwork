@@ -1,7 +1,0 @@
-# 실제 키가 담긴 설정 파일 — git에 올리지 않음
-config.js
-
-# 에디터/OS 임시 파일
-.DS_Store
-Thumbs.db
-*.swp
