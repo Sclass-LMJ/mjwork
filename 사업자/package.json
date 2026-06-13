@@ -1,0 +1,12 @@
+{
+  "name": "business-number-scraper",
+  "version": "1.0.0",
+  "description": "사업자번호 조회",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
